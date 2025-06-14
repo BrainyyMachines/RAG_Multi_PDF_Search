@@ -1,0 +1,5 @@
+pdfplumber # for readind PDF
+faiss-cpu
+requests
+numpy
+streamlit
