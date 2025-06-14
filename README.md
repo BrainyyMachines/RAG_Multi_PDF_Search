@@ -39,7 +39,7 @@ git clone https://github.com/BrainyyMachines/RAG_Multi_PDF_Search.git
 pip install -r requirements.txt
 
 # Run the application
-python main.py
+streamlit run main.py
 ```
 
 ## 🛠️ Technologies Used  
